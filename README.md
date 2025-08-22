@@ -38,7 +38,6 @@
 ### 📡 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://https://nirzak-streak-stats.vercel.app/?user=Adityab0245&theme=calm_pink" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
