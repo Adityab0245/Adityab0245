@@ -1,27 +1,6 @@
 <!-- Profile README for Adityab0245 -->
 
-    ☄️
-           .
-          .'.
-          |o|
-         .'o'.
-         |.-.|
-         '   '
-          ( )
-           )
-          ( )
-    . ' .-'''-. . ' .
-  -=  *  Adityab0245 *  =-
-    ' . ' .---. ' . '
-          ( )
-           )
-          ( )
-         '   '
-         |.-.|
-         .'o'.
-          |o|
-          '.'
-           '
+  
 
 <h1 align="center">🚀 Hey, I’m Aditya (Adityab0245)</h1>
 <p align="center"><i>"Exploring the universe of code, one commit at a time."</i></p>
