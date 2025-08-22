@@ -32,14 +32,23 @@
 - ⚔️ **AlgoQuest** → Algorithm implementations & problem solving  
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📡 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+<p align="center"># 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adityab0245&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adityab0245&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adityab0245&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adityab0245&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ### ✨ Fun Fact
 🌱 *Every repo is a star in the constellation of innovation.*  
