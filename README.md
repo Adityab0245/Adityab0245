@@ -43,5 +43,5 @@
 
 ### ✨ Fun Fact
 🌱 *Every repo is a star in the constellation of innovation.*  
-![Rocket Launch](./spacey_rocket.gif)
+
 
