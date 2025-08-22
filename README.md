@@ -35,11 +35,21 @@
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🌌 GitHub Stats & Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adityab0245&theme=radical&hide_border=true)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=radical)<br>
+<h2 align="center">🌌 GitHub Stats & Streaks</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adityab0245&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
 
 ---
 ### 🔝 Top Contributed Repo
