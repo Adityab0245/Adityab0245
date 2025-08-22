@@ -46,7 +46,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Adityab0245&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adityab0245&icon=5&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Adityab0245)
+
 
 ### ✨ Fun Fact
 🌱 *Every repo is a star in the constellation of innovation.*  
