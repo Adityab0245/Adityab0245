@@ -1,5 +1,5 @@
 <!-- Profile README for Adityab0245 -->
-![Banner](./A_digital_illustration_features_the_GitHub_profile.png)
+
     ☄️
            .
           .'.
