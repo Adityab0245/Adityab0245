@@ -37,9 +37,9 @@
 
 ## 🌌 GitHub Stats & Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adityab0245&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adityab0245&theme=radical&hide_border=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=radical)<br>
 
 ---
 ### 🔝 Top Contributed Repo
