@@ -36,11 +36,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📡 GitHub Stats
-<p align="center"># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityab0245&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adityab0245&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://https://nirzak-streak-stats.vercel.app/?user=Adityab0245&theme=calm_pink" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityab0245&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
