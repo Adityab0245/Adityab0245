@@ -117,3 +117,12 @@ Commit messages are to be monitored for █████████ activity.
 <!--END_SECTION:scp_commits-->
 
 <p align="center"><em>Note: Unauthorized access will be met with immediate containment.</em></p>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FILE_STATUS-END_OF_FILE-black?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub><i>Document SCP-0245 terminated. Further access requires O5 clearance.</i></sub>
+</p>
