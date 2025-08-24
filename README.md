@@ -93,10 +93,10 @@ SCP-0245 exhibits strong adaptability across multiple programming languages, inc
 ---
 
 ### 🔬 Sub-Anomalies (Projects)  
-- **SCP-5024-A**: [VoiceToSpeech](https://github.com/ShadowForests/VoiceToSpeech) – real-time speech translation app  
-- **SCP-5024-B**: [REDACTED] – anomaly detection in climate datasets  
-- **SCP-5024-C**: [REDACTED] – financial prediction engine  
-- **SCP-5024-D**: [REDACTED] – advanced algorithm visualization  
+- **SCP-0245-A**: [VoiceToSpeech](https://github.com/ShadowForests/VoiceToSpeech) – real-time speech translation app  
+- **SCP-0245-B**: [REDACTED] – anomaly detection in climate datasets  
+- **SCP-0245-C**: [REDACTED] – financial prediction engine  
+- **SCP-0245-D**: [REDACTED] – advanced algorithm visualization  
 
 ---
 
@@ -108,9 +108,9 @@ SCP-0245 exhibits strong adaptability across multiple programming languages, inc
 
 ---
 
-<summary>###📂 Addendum 0245-A: Incident Report</summary>
+###📂 Addendum 0245-A: Incident Report
 "SCP-5024 is cooperative, but unpredictable. When provided with sufficient compute resources, it tends to self-optimize and expand into new domains. Recommend continued observation."
-— Dr. █████ <br>
+— Dr. █████ 
 
 ---
 ### 🔑 Addendum 0245-B: Access Codes
