@@ -2,7 +2,8 @@
 <!--  SCP FOUNDATION - FILE SCP-0245 -->
 <!-- ███████████████████████████████ -->
 
-<h1 align="center">🔒 SCP-0245: Digital Entity - Adityab0245</h1>
+<h1 align="center">🔒 SCP-0245: Entity - Adityab</h1>
+Redacted info: <span style="background:black;color:black;" title="Top Secret">█████</span>
 
 
 
