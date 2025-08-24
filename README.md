@@ -28,12 +28,13 @@
 
 ---
 <p align="center">
-  <strong>Item #: </strong> SCP-0245 <br/>
-  <strong>Object Class: </strong> Euclid <br/>
+  <em>Secure. Contain. Protect.</em>
 </p>
+---
 
 <p align="center">
-  <em>Secure. Contain. Protect.</em>
+  <strong>Item #: </strong> SCP-0245 <br/>
+  <strong>Object Class: </strong> Euclid <br/>
 </p>
 
 
@@ -55,6 +56,32 @@ Commit messages are to be monitored for █████████ activity.
 </p>
 
 ---
+
+
+
+- **Designation:** SCP-0245 ("Adityab0245")  
+- **Description:** A GitHub entity exhibiting anomalous software engineering behaviors.  
+- **Abilities:**  
+  - 🚀 Deploys real-time speech translators  
+  - 📊 Performs algorithmic containment (DP, Greedy, Divide & Conquer)  
+  - 🛰️ Experiments with AI pipelines, APIs, and data governance  
+- **Special Containment Procedures:** Profile must remain active on GitHub. All commits logged automatically.  
+
+---
+
+<h2 align="center">📝 SCP Commit Log</h2>
+
+<!--START_SECTION:scp_commits-->
+* [LOG SCP-0245] Commit: Initial containment █████
+<!--END_SECTION:scp_commits-->
+
+---
+
+### 🔑 Addendum 0245-A: Access Codes
+> *"Curiosity fuels containment. Knowledge ensures survival."*
+
+📫 Contact SCP-0245 via GitHub Issues or Pull Requests.  
+
 
 <h2 align="center">CONTAIMENT LOGS</h2>
 
