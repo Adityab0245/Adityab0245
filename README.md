@@ -4,8 +4,9 @@
 
 <h1 align="center">🔒 SCP-0245: Entity - Adityab</h1>
 
-Redacted info: <span style="background:black;color:black;" title="Top Secret">█████</span>
-
+<p align="center">
+Redacted info: <span style="background:black;color:black;" title="Top Secret">█████</span>.
+</p>
 
 
 
