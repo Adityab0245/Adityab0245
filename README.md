@@ -52,10 +52,15 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">�
 
 <p align="center">
   <strong>Item #: </strong> SCP-0245 <br/>
-  <strong>Object Class: </strong> Euclid <br/>
+  <strong>Object Class: </strong> Keter <br/>
 </p>
 
+---
 
+## Threat Level:  
+![Threat Level: Red](https://img.shields.io/badge/Threat%20Level-Red-%23FF0000?style=for-the-badge&logo=ghost)
+
+---
  **SCP CONTAINMENT ACTIVE**<br/> 
 <img src="https://img.shields.io/badge/Containment-Locked-red?style=for-the-badge&logo=github" />  
 <img src="https://img.shields.io/badge/Status-Classified-black?style=for-the-badge&logo=apache" />  
@@ -67,11 +72,10 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">�
 
 <h2 align="center">📂 PROFILE FILES</h2>
 
-<p align="center">
-<b>Special Containment Procedures:</b><br/>
-SCP-0245 (Aditya) is to be contained within digital repositories under strict version control. 
-Commit messages are to be monitored for █████████ activity.
-</p>
+## Special Containment Procedures:  
+SCP-5024 is to be confined within this GitHub repository.  
+Due to its capacity for rapid self-optimization and ███████ expansion, any attempts to replicate, fork, or execute SCP-5024 without O5 clearance will be treated as a containment breach.  
+Mobile Task Force Eta-██ (“SysAdmins”) is authorized to deploy immediate countermeasures.  
 
 ---
 
