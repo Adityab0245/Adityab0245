@@ -1,21 +1,16 @@
 <h1 align="center">███ SCP-0245: Aditya ███</h1>
 
-<p align="center">
-<pre>
-      ______
-   .-        -.
-  /            \
- |,  .-.  .-.  ,|
- | )(_o/  \o_)( |
- |/     /\     \|
- (_     ^^     _)
-  \__|IIIIII|__/
-   | \IIIIII/ |
-   \          /
-    `--------`
-</pre>
-</p>
-
+<p align="center">      ______      </p>
+<p align="center">   .-        -.   </p>
+<p align="center">  /            \  </p>
+<p align="center"> |,  .-.  .-.  ,| </p>
+<p align="center"> | )(_o/  \o_)( | </p>
+<p align="center"> |/     /\     \| </p>
+<p align="center"> (_     ^^     _) </p>
+<p align="center">  \__|IIIIII|__/  </p>
+<p align="center">   | \IIIIII/ |   </p>
+<p align="center">   \          /   </p>
+<p align="center">    `--------`    </p>
 <p align="center">
 <pre>
   █████████    █████████  ███████████ 
@@ -35,6 +30,11 @@
 </p>
 
 ---
+🌌 ☁️ ☠️ **SCP Containment Active** ☠️ ☁️ 🌌  
+<img src="https://img.shields.io/badge/Containment-Locked-red?style=for-the-badge&logo=github" />  
+<img src="https://img.shields.io/badge/Status-Classified-black?style=for-the-badge&logo=apache" />  
+<img src="https://img.shields.io/badge/Threat%20Level-KETER-critical?style=for-the-badge&logo=ghost" />
+</p>
 
 <p align="center">
   <strong>Item #: </strong> SCP-0245 <br/>
