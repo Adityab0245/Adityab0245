@@ -1,4 +1,10 @@
-<h1 align="center">███ SCP-0245: Aditya ███</h1>
+<!-- ███████████████████████████████ -->
+<!--  SCP FOUNDATION - FILE SCP-0245 -->
+<!-- ███████████████████████████████ -->
+
+<h1 align="center">🔒 SCP-0245: Digital Entity - Adityab0245</h1>
+
+
 
 <p align="center">
 <pre>
