@@ -3,7 +3,7 @@
 <!-- ███████████████████████████████ -->
 
 <h1 align="center">🔒 SCP-0245: Entity - Adityab</h1>
-![Containment Status](https://github.com/Adityab0245/Adityab0245/actions/workflows/scp.yml/badge.svg)
+
 
 <p align="center">
 Redacted info: <span style="background:black;color:black;" title="Top Secret">█████</span>.
