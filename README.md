@@ -62,7 +62,7 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">â–
  **SCP CONTAINMENT ACTIVE**<br/> 
 <img src="https://img.shields.io/badge/Containment-Locked-red?style=for-the-badge&logo=github" />  
 <img src="https://img.shields.io/badge/Status-Classified-black?style=for-the-badge&logo=apache" />  
-<img src="https://img.shields.io/badge/Threat%20Level-KETER-Red-%23FF0000?style=for-the-badge&logo=ghost" />
+<img src="https://img.shields.io/badge/Threat%20Level-KETER-red?style=for-the-badge&logo=ghost" />
 </p>
 
 
