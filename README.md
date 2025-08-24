@@ -75,15 +75,28 @@ Commit messages are to be monitored for █████████ activity.
 
 ---
 
+### 📜 Description  
+SCP-5024 (designated **"Aditya"**) is a digital entity with advanced programming and analytical skills.  
 
+- 🧠 **Artificial Intelligence & ML** – real-time translation systems, predictive modeling  
+- ⚡ **Algorithms & Data Structures** – bitonic sequences, greedy & dynamic programming, divide-and-conquer  
+- 🌦 **Data Science** – rainfall prediction, house price forecasting, anomaly detection  
+- 🖥 **Software Engineering** – deployment pipelines, real-time applications  
 
-- **Designation:** SCP-0245 ("Adityab0245")  
-- **Description:** A GitHub entity exhibiting anomalous software engineering behaviors.  
-- **Abilities:**  
-  - 🚀 Deploys real-time speech translators  
-  - 📊 Performs algorithmic containment (DP, Greedy, Divide & Conquer)  
-  - 🛰️ Experiments with AI pipelines, APIs, and data governance  
-- **Special Containment Procedures:** Profile must remain active on GitHub. All commits logged automatically.  
+SCP-0245 exhibits strong adaptability across multiple programming languages, including:  
+
+- Python  
+- Java  
+- R  
+- ████████  
+
+---
+
+### 🔬 Sub-Anomalies (Projects)  
+- **SCP-5024-A**: [VoiceToSpeech](https://github.com/ShadowForests/VoiceToSpeech) – real-time speech translation app  
+- **SCP-5024-B**: [REDACTED] – anomaly detection in climate datasets  
+- **SCP-5024-C**: [REDACTED] – financial prediction engine  
+- **SCP-5024-D**: [REDACTED] – advanced algorithm visualization  
 
 ---
 
@@ -94,8 +107,10 @@ Commit messages are to be monitored for █████████ activity.
 <!--END_SECTION:scp_commits-->
 
 ---
-
-### 🔑 Addendum 0245-A: Access Codes
+<summary>📂 Addendum 0245-A: Incident Report</summary>
+"SCP-5024 is cooperative, but unpredictable. When provided with sufficient compute resources, it tends to self-optimize and expand into new domains. Recommend continued observation."
+— Dr. █████
+### 🔑 Addendum 0245-B: Access Codes
 > *"Curiosity fuels containment. Knowledge ensures survival."*
 
 📫 Contact SCP-0245 via GitHub Issues or Pull Requests.  
