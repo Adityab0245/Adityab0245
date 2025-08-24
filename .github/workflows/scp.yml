@@ -1,0 +1,37 @@
+name: SCP Containment Protocol
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  containment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: [ACCESSING ARCHIVES]
+        uses: actions/checkout@v4
+
+      - name: [SYSTEM BOOT]
+        run: |
+          echo "█████████████████████████████████████████"
+          echo "[ACCESS GRANTED] Welcome, Researcher."
+          echo "Initializing Secure Containment Procedures..."
+          echo "█████████████████████████████████████████"
+
+      - name: [BREACH SIMULATION]
+        run: |
+          SCP_NUM=$((100 + RANDOM % 899))   # Random SCP number
+          echo "⚠️  CRITICAL ALERT: SCP-$SCP_NUM containment breach detected."
+          echo "📡 Location: Site-██"
+          echo "🔔 Status: Mobile Task Force ███ deployed."
+          echo "🔧 Response: Automated countermeasures engaged."
+          echo "---"
+          echo "[REDACTED] ████████████████████"
+
+      - name: [CONTAINMENT STATUS]
+        run: |
+          echo "✅ SCP entity neutralized."
+          echo "Containment integrity: RESTORED."
+          echo "Clearance Level: 4"
+          echo "█████████████████████████████████████████"
+          echo "[SESSION TERMINATED]"
