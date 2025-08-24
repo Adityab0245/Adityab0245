@@ -1,7 +1,7 @@
 <h1 align="center">███ SCP-0245: Aditya ███</h1>
 
 <p align="center">
-<pre>
+
       ______
    .-'      `-.
   /            \
@@ -13,7 +13,7 @@
    | \IIIIII/ |
    \          /
     `--------`
-</pre>
+
 </p>
 
 <p align="center">
