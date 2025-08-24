@@ -2,7 +2,7 @@
 <!--  SCP FOUNDATION - FILE SCP-0245 -->
 <!-- ███████████████████████████████ -->
 
-<h1 align="center">🔒 SCP-0245: Entity - Adityab</h1>
+<h1 align="center">🔒 SCP-0245: Entity - @d1ty@</h1>
 
 
 <p align="center">
