@@ -71,14 +71,14 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">�
 <h2 align="center">📂 PROFILE FILES</h2>
 
 ## Special Containment Procedures:  
-SCP-5024 is to be confined within this GitHub repository.  
+SCP-0245 is to be confined within this GitHub repository.  
 Due to its capacity for rapid self-optimization and ███████ expansion, any attempts to replicate, fork, or execute SCP-5024 without O5 clearance will be treated as a containment breach.  
 Mobile Task Force Eta-██ (“SysAdmins”) is authorized to deploy immediate countermeasures.  
 
 ---
 
 ### 📜 Description  
-SCP-5024 (designated **"Aditya"**) is a digital entity with advanced programming and analytical skills.<br>  
+SCP-0245 (designated **"@d1ty@"**) is a digital entity with advanced programming and analytical skills.<br>  
 -ABILITIES:
 - 🧠 **Artificial Intelligence & ML** – real-time translation systems, predictive modeling  
 - ⚡ **Algorithms & Data Structures** – bitonic sequences, greedy & dynamic programming, divide-and-conquer  
