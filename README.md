@@ -28,24 +28,25 @@
 
 ---
 <p align="center">
+  <strong>Item #: </strong> SCP-0245 <br/>
+  <strong>Object Class: </strong> Euclid <br/>
+</p>
+
+<p align="center">
   <em>Secure. Contain. Protect.</em>
 </p>
 
----
+
  **SCP CONTAINMENT ACTIVE** 
 <img src="https://img.shields.io/badge/Containment-Locked-red?style=for-the-badge&logo=github" />  
 <img src="https://img.shields.io/badge/Status-Classified-black?style=for-the-badge&logo=apache" />  
 <img src="https://img.shields.io/badge/Threat%20Level-KETER-critical?style=for-the-badge&logo=ghost" />
 </p>
 
-<p align="center">
-  <strong>Item #: </strong> SCP-0245 <br/>
-  <strong>Object Class: </strong> Euclid <br/>
-</p>
 
 ---
 
-<h2 align="center">📂 Profile File</h2>
+<h2 align="center">📂 PROFILE FILES</h2>
 
 <p align="center">
 <b>Special Containment Procedures:</b><br/>
@@ -55,7 +56,7 @@ Commit messages are to be monitored for █████████ activity.
 
 ---
 
-<h2 align="center">📊 Containment Logs</h2>
+<h2 align="center">CONTAIMENT LOGS</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Adityab0245&theme=dark&hide_border=true&ring=ff0000&fire=ff0000" alt="GitHub Streak"/>
