@@ -8,17 +8,17 @@ jobs:
   containment:
     runs-on: ubuntu-latest
     steps:
-      - name: [ACCESSING ARCHIVES]
+      - name: "[ACCESSING ARCHIVES]"
         uses: actions/checkout@v4
 
-      - name: [SYSTEM BOOT]
+      - name: "[SYSTEM BOOT]"
         run: |
           echo "█████████████████████████████████████████"
           echo "[ACCESS GRANTED] Welcome, Researcher."
           echo "Initializing Secure Containment Procedures..."
           echo "█████████████████████████████████████████"
 
-      - name: [BREACH SIMULATION]
+      - name: "[BREACH SIMULATION]"
         run: |
           SCP_NUM=$((100 + RANDOM % 899))   # Random SCP number
           echo "⚠️  CRITICAL ALERT: SCP-$SCP_NUM containment breach detected."
@@ -28,7 +28,7 @@ jobs:
           echo "---"
           echo "[REDACTED] ████████████████████"
 
-      - name: [CONTAINMENT STATUS]
+      - name: "[CONTAINMENT STATUS]"
         run: |
           echo "✅ SCP entity neutralized."
           echo "Containment integrity: RESTORED."
