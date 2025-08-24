@@ -111,7 +111,7 @@ SCP-0245 exhibits strong adaptability across multiple programming languages, inc
 ---
 
 ## Researcher Notes:  
-> *"SCP-5024 is cooperative, but unpredictable. When provided with sufficient compute resources, it tends to self-optimize and expand into new domains. Recommend continued observation."*  
+> *"SCP-0245 is cooperative, but unpredictable. When provided with sufficient compute resources, it tends to self-optimize and expand into new domains. Recommend continued observation."*  
 > — Dr. █████  
  
 
