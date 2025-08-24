@@ -3,7 +3,7 @@
 <!-- ███████████████████████████████ -->
 
 <h1 align="center">🔒 SCP-0245: Entity - Adityab</h1>
-Redacted info: <span style="background:black;color:black;" title="Top Secret">█████</span>
+
 
 
 
@@ -37,6 +37,7 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">�
 <p align="center">
   <em>Secure. Contain. Protect.</em>
 </p>
+
 ---
 
 <p align="center">
