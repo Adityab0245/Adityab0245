@@ -22,9 +22,7 @@ Redacted info: <span style="background:black;color:black;" title="Top Secret">�
 ░░█████████ ░░█████████ █████               ░░░█████░ ░██████████      █████░░████████ 
  ░░░░░░░░░   ░░░░░░░░░ ░░░░░                  ░░░░░░  ░░░░░░░░░░      ░░░░░  ░░░░░░░░  
 </pre>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_SCP_Foundation.svg/2048px-Logo_SCP_Foundation.svg.png" width="120" alt="SCP Foundation Logo"/>
-</p>
+
 
 <pre>
                        ______
