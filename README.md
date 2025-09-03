@@ -128,9 +128,7 @@ SCP-0245 exhibits strong adaptability across multiple programming languages, inc
 
 <h2 align="center">CONTAIMENT LOGS</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adityab0245&theme=dark&hide_border=true&ring=ff0000&fire=ff0000" alt="GitHub Streak"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adityab0245&show_icons=true&theme=dark&icon_color=ff0000&title_color=ff0000" alt="GitHub Stats"/>
